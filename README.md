@@ -1,0 +1,2 @@
+# Yang
+just another repository
